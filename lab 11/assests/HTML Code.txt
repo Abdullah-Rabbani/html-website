@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+
+</head>
+<body>
+    <img src="assets\maxresdefault.png"alt="car photo"height="150px"width="250px">
+    <h1> <p style="font-size: 30px;color: blue;">Personal Information:</h1></p>
+    <p style="font-size: 25px;color: black;" >My name Abdullah.My Age is 18.My Father name is Muhammad Rabbani.My Father is 18th Grade retired officer From PMO.My residence is in B17 Block A.I am studying in Sir Syed C@se Institute of Technology.</p>
+    <h2> <p  style="font-size: 30px;color: blue;">My contacts:</h2></p>
+    <p style="font-size: 25px;color: black;" >a.Watsapp 03315672013.</p>
+    <p style="font-size: 25px;color: black;" >b.Insta abdullah_786669.</p>
+    <p style="font-size: 25px;color: black;" >c.Email.abdullahrabbani786124@gmail.com</p>
+    <h3> <p  style="font-size: 30px;color: blue;">My Education:</h3></p>
+    <p style="font-size: 25px;color: black;" >1.Matric from Allied School B17 campus.</p>
+    <p style="font-size: 25px;color: black;" >2.Intermeidate from Turk College B17 campus.</p>
+    <p style="font-size: 25px;color: black;" >3.BSAI from SS CASE IT (on going)</p>
+    <h4> <p  style="font-size: 30px;color: blue;">My Hobbies:</h4></p>
+    <p style="font-size: 25px;color: black;" >1.Playing online game.</p>
+    <p style="font-size: 25px;color: black;" >2.Car modification.</p>
+    <p style="font-size: 25px;color: black;" >3.Electronics/Robotics project.(Vedios are available on my youtube)</p>
+    <a style="font-size: 25px;color: red;"  href="https://youtube.com/@electronicity?si=jUXtaDnIvMsX7IzO">MY Youtube link</a>
+    <h5> <p  style="font-size: 30px;color: blue;">My Subjects in BSAI:</h5></p>
+    <p style="font-size: 25px;color: black;" >1.Discrete Structres</p>
+    <p style="font-size: 25px;color: black;" >2.ICT</p>
+    <p style="font-size: 25px;color: black;" >3.Programing Fundamentals</p>
+    <p style="font-size: 25px;color: black;" >4.Islamic Studies</p>
+    <p style="font-size: 25px;color: black;" >5.Functional English</p>
+
+</body>
+  
+ 
